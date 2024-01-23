@@ -1,0 +1,17 @@
+h1{
+    border:2px solid black;
+    width:33.33%
+}
+#outer{
+    background-color: aqua;
+    height:400px;
+    width: 400px;
+    margin:50px;
+
+}
+#inner{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    margin-left:10%;
+}
